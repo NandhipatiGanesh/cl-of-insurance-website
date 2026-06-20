@@ -14,13 +14,13 @@ import {
 import { FaApple, FaGooglePlay } from 'react-icons/fa';
 
 // Imported Assets
-import Slide1 from '../../../Assets/Images/slide1.webp';
-import Slide2 from '../../../Assets/Images/slide2.webp';
-import Slide3 from '../../../Assets/Images/slide3.webp';
-import Slide4 from '../../../Assets/Images/slide4.webp';
-import Slide5 from '../../../Assets/Images/slide5.webp';
-import Car from '../../../Assets/Images/car_image.webp';
-import Ambulance from '../../../Assets/Images/ambulance_image.webp';
+import Slide1 from '../../../assets/Images/slide1.webp';
+import Slide2 from '../../../assets/Images/slide2.webp';
+import Slide3 from '../../../assets/Images/slide3.webp';
+import Slide4 from '../../../assets/Images/slide4.webp';
+import Slide5 from '../../../assets/Images/slide5.webp';
+import Car from '../../../assets/Images/car_image.webp';
+import Ambulance from '../../../assets/Images/ambulance_image.webp';
 
 // Feature Data mapping slides to active styles
 const features = [
