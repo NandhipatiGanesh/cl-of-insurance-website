@@ -4,7 +4,7 @@ import { FaInstagram, FaLinkedinIn, FaFacebookF } from 'react-icons/fa';
 import { FaXTwitter } from 'react-icons/fa6'; 
 
 // Import the white version of the logo for the dark background
-import LogoWhite from '../../assets/logo-white.svg'; 
+import LogoWhite from '../../assets/Logo-White.svg'; 
 
 // --- IMPORT YOUR SVG BADGES HERE ---
 // Ensure these paths match your folder structure exactly
